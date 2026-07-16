@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR1f0012_000.yaml, hash: 'sha256:ce3b89eb83ceabe4d3bf53abd37bb2c473f5419f2574a379f6c28027b9d18e09'}
   - {seq: 1, filename: KR1f0012_001.yaml, hash: 'sha256:051ff40c00446cdc9bfa8c258a168c58f906ae735d65cb8b159ce1b9d7e73495'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1f0012_000.markers.yaml, hash: 'sha256:3e6774a32e1c4751db394a7afa85f095738338a8ff4cc6b08be3c027511c4618'}
-  - {seq: 1, role: markers, filename: assets/KR1f0012_001.markers.yaml, hash: 'sha256:489e50e0e9c092b69b6691fb71c7446adf793e1056f82fa732ccded08211619c'}
+  - {seq: 0, role: markers, filename: assets/KR1f0012_000.markers.yaml, hash: 'sha256:089bde4b0a9a3e61651d22c3b4e98f00da101247b61190922ff44531464847ac'}
+  - {seq: 1, role: markers, filename: assets/KR1f0012_001.markers.yaml, hash: 'sha256:c4436a37a3d9a56ec5e7b10748ba31ed53240b54991b32593632a7f456e15d69'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,7 @@ table_of_contents:
   label: 御纂孝經集註
   type: section
   level: 1
-hash: sha256:49d4752900e7ad8f4b7dc64ef69d27ef19de959e0e0e81e387449b5bd896bc58
+hash: sha256:d38b8b7bf36c688a5ae7077098940e7c895c491068bedb321d2531722c9c2067
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
